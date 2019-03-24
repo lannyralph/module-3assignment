@@ -1,0 +1,48 @@
+body {background-color: #e0e0e0;
+	  color: black;
+	  font-family: 'Oxygen', sans-serif;}
+
+#header-nav {background-color:#212121 ;
+			 border: 0;
+			 border-radius: 0
+			 ;
+			 }
+
+
+
+.navbar-brand h1 {
+  font-family: serif;
+  color: #557c3e;
+  font-size: 1.5em;
+  text-transform: uppercase;
+  font-weight: bold;
+  text-shadow: 1px 1px 1px #222;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: .75;
+  
+  .container
+}
+#nav-list {background-color: #616161;
+  margin-top: 10px;
+text-align: center;}
+
+#nav-list a {color: yellow;}
+#nav-list a:hover {color:green;}
+
+
+
+h2 {text-align: center;}
+section {border: 2px solid black;
+  background-color: grey;
+  width: 90%;
+  height: 1000px;
+  margin-right: auto;
+  margin-left: auto;
+  color: white;
+font-size: 125%;
+overflow: hidden;}
+   
+.container span {text-align: center;
+			 color: #212121}
+.container p{font-size: 0.5em}
